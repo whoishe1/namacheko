@@ -35,6 +35,6 @@
       - Program/scripts: 
         - `"C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe"`
       - Add arguments (optional):  
-        - -ExecutionPolicy Bypass 'my folder where the .ps1 file is', here you want locate the powershell script
+        - `-ExecutionPolicy Bypass 'my folder where the .ps1 file is'`, here you want locate the powershell script
       - Start in (optional): 
-        - 'root folder' , here you want to locate the root folder for the script
+        - `'root folder'` , here you want to locate the root folder for the script
